@@ -1,0 +1,22 @@
+{
+  "name": "node_quest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estelle9/node_quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estelle9/node_quest/issues"
+  },
+  "homepage": "https://github.com/Estelle9/node_quest#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
